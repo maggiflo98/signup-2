@@ -1,0 +1,12 @@
+body{
+       background-color:deepskyblue;
+       background: #333 url("/images/pic1.jpg");
+       background-repeat: no-repeat;
+       background-position: center;
+}
+.form-group input{
+    border-radius:15px;
+}
+label{
+    color: deepskyblue;
+}
